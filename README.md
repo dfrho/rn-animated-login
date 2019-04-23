@@ -14,7 +14,7 @@ Make sure you have Node v6 or later installed. No Xcode or Android Studio instal
 
 ```sh
 $ clone repo
-$ cd rnanime
+$ cd rn-animated-logo
 $ npm start
 ```
 
