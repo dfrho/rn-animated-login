@@ -46,7 +46,7 @@ Expo CLI allows you to work with all of the [Components and APIs](https://facebo
 - [FAQs](#faqs)
 - [Contributing](#contributing)
 
-## Getting Started
+## Getting Started on Development
 
 #### `npm start`
 
