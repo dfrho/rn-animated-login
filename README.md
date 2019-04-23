@@ -1,8 +1,5 @@
 # RN Animated Login
 
-demo: exp://192.168.1.163:19000 using Expo app
-![barcode for expo app](https://user-images.githubusercontent.com/3064557/56553147-7623d580-655b-11e9-8fa7-001005020225.png)
-
 React Native Expo starter app that adds a Login/Registration UI (not yet connected to back end) with an animated logo tied to keyboard appearance.
 
 Custom assets include the images in the ```components/Logo/images``` folder and the ```src/assets/images/splash.png``` file. The app is currently customized as a mock Twitter brand called **tweetster**.
@@ -36,6 +33,10 @@ The `npm start` command starts the Expo CLI server. You can now run the project 
 - Alternatively you can press 's' in the terminal and sign in with an Expo account, and sign in with the same account in the Expo app: your projects will automatically appear in the "Projects" tab.
 
 Expo CLI allows you to work with all of the [Components and APIs](https://facebook.github.io/react-native/docs/getting-started.html) in React Native, as well as the [JavaScript APIs](https://docs.expo.io/versions/latest/sdk/index.html) that the Expo app provides.
+
+
+## Without cloning repo, to demo the app use either device and scan below barcode after having installed Expo app (Expo will run the app in development mode):
+![barcode for expo app](https://user-images.githubusercontent.com/3064557/56553147-7623d580-655b-11e9-8fa7-001005020225.png)
 
 ## Sections
 
