@@ -1,4 +1,4 @@
-# RN Animated Login
+# RN Animated Login (demo: [exp://192.168.1.163:19000](exp://192.168.1.163:19000) using Expo app)
 
 React Native Expo starter app that adds a Login/Registration UI (not yet connected to back end) with an animated logo tied to keyboard appearance.
 
