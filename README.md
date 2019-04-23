@@ -4,6 +4,9 @@ React Native Expo starter app that adds a Login/Registration UI (not yet connect
 
 Custom assets include the images in the ```components/Logo/images``` folder and the ```src/assets/images/splash.png``` file. The app is currently customized as a mock Twitter brand called **tweetster**.
 
+Expo users can scan this barcode to load the app:
+![Expo bar code](https://github.com/dfrho/rn-animated-login/issues/1#issue-435989057)
+
 ### Initialized with **[Create React Native App](https://github.com/react-community/create-react-native-app)**
 
 __CRNA Documentation Follows:__
