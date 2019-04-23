@@ -35,7 +35,7 @@ The `npm start` command starts the Expo CLI server. You can now run the project 
 Expo CLI allows you to work with all of the [Components and APIs](https://facebook.github.io/react-native/docs/getting-started.html) in React Native, as well as the [JavaScript APIs](https://docs.expo.io/versions/latest/sdk/index.html) that the Expo app provides.
 
 
-## Without cloning repo, to demo the app use either device and scan below barcode after having installed Expo app (Expo will run the app in development mode):
+### Or, without cloning the repo, demo the app with IOS/Android by scanning below barcode after having installed Expo app (Expo will run the app in development mode):
 ![barcode for expo app](https://user-images.githubusercontent.com/3064557/56553147-7623d580-655b-11e9-8fa7-001005020225.png)
 
 ## Sections
