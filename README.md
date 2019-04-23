@@ -2,32 +2,19 @@
 
 React Native Expo starter app that adds a Login/Registration UI (not yet connected to back end) with an animated logo tied to keyboard appearance.
 
-Custom assets include the images in the ```components/Logo/images``` folder and the ```src/assets/images/splash.png``` file.
+Custom assets include the images in the ```components/Logo/images``` folder and the ```src/assets/images/splash.png``` file. The app is currently customized as a mock Twitter brand called **tweetster**.
 
 ### Initialized with **[Create React Native App](https://github.com/react-community/create-react-native-app)**
 
 __CRNA Documentation Follows:__
-
-Create React Native apps with no build configuration.
-
-- [Getting Started](#getting-started)
-
-Once you're up and running with Create React Native App, visit [this tutorial](https://facebook.github.io/react-native/docs/tutorial.html) for more information on building apps with React Native.
-
-**Note: Create React Native App has been merged with Expo CLI** You can now use `expo init` to create your project. See [Quick Start](https://docs.expo.io/versions/latest/) in the Expo documentation for instructions on getting started using Expo CLI.
-
-The `create-react-native-app` command is provided for backwards compatibility.
-
-If you created your app using `create-react-native-app`, it's already compatible with Expo CLI. See [upgrade instructions](https://github.com/react-community/create-react-native-app/blob/master/CHANGELOG.md#upgrading-from-1140-to-201).
 
 ## Quick Overview
 
 Make sure you have Node v6 or later installed. No Xcode or Android Studio installation is required.
 
 ```sh
-$ npm install -g expo-cli
-$ expo init my-app
-$ cd my-app/
+$ clone repo
+$ cd rnanime
 $ npm start
 ```
 
@@ -57,25 +44,9 @@ Expo CLI allows you to work with all of the [Components and APIs](https://facebo
 
 ## Getting Started
 
-### Installation
-
-See [Installation](https://docs.expo.io/versions/latest/introduction/installation).
-
-### Creating an App
-
-To create a new app, run:
-
-```sh
-expo init
-```
-
-This will create a directory called `my-app` inside the current working directory. Inside `my-app`, this will generate the initial project structure and install all of its dependencies.
-
-If you're familiar with React Native already, you won't find any `ios` or `android` directories in this project, just JavaScript. Once this installation is done, there are some commands you can run in the project directory:
-
 #### `npm start`
 
-Runs your app in development mode with an interactive prompt. To run it without a prompt, use the `--no-interactive` flag.
+Runs the app in development mode with an interactive prompt. To run it without a prompt, use the `--no-interactive` flag.
 
 Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
 
@@ -85,11 +56,11 @@ Runs the [jest](https://github.com/facebook/jest) test runner on your tests.
 
 #### `npm run ios`
 
-Like `npm start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
+Like `npm start`, but also attempts to open the app in the iOS Simulator if you're on a Mac and have it installed.
 
 #### `npm run android`
 
-Like `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+Like `npm start`, but also attempts to open the app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
 
 #### `npm run eject`
 
