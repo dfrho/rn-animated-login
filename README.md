@@ -1,7 +1,7 @@
 # RN Animated Login
 
 demo: exp://192.168.1.163:19000 using Expo app
-![barcode for expo app](https://github.com/dfrho/rn-animated-login/issues/1#issue-435989057)
+![barcode for expo app](https://user-images.githubusercontent.com/3064557/56553147-7623d580-655b-11e9-8fa7-001005020225.png)
 
 React Native Expo starter app that adds a Login/Registration UI (not yet connected to back end) with an animated logo tied to keyboard appearance.
 
