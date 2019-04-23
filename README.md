@@ -14,7 +14,7 @@ Make sure you have Node v6 or later installed. No Xcode or Android Studio instal
 
 ```sh
 $ clone repo
-$ cd rn-animated-logo
+$ cd rn-animated-login
 $ npm start
 ```
 
